@@ -152,7 +152,7 @@ body{
     line-height: 27px;
     margin-bottom: 10px;
 }
-.contacts, .tech-skills, .soft-skills{
+.contacts, .tech-skills, .soft-skills, .language{
     margin-left: 40px;
     margin-top: 40px;
 }
@@ -174,15 +174,16 @@ body{
     line-height: 24px;
     color: #565e6a;
 }
-.tech-skills-list, .soft-skills-list{
+.tech-skills-list, .soft-skills-list, .language-list {
     color: #ffffff;
     padding: 0;
     margin-left: 15px;
 }
-.tech-skills-list li, .soft-skills-list li{
+
+.tech-skills-list li, .soft-skills-list li, .language-list li{
     color: #FB6D3A;
 }
-.tech-skills-text, .soft-skills-text{
+.tech-skills-text, .soft-skills-text, .language-text{
     color: #fff;
     font-style: normal;
     font-weight: normal;
